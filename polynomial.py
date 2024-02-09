@@ -1,7 +1,3 @@
-# Name: Kan Xing Zheng
-# Collaborators: 
-# Notes: Challenge attempted
-
 class Polynomial:
     
     # takes in list coeffs
