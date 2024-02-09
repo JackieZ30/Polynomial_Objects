@@ -1,7 +1,3 @@
-# Name: Kan Xing Zheng
-# Collaborators: 
-# Notes: Challenge attempted
-
 from polynomial import Polynomial
 from math import sqrt
 
