@@ -1,4 +1,0 @@
-# Name: 
-# Collaborators: 
-# Notes: 
-
